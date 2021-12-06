@@ -1,0 +1,36 @@
+form {
+  margin-right: 10px;
+  margin-bottom: 0;
+  margin-top: 5px;
+  height: 40px;
+  width: 200px;
+}
+input {
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 5px;
+  color: #646464;
+  border: 1px solid #a9a9a9;
+  border-radius: 5px;
+}
+input:focus,
+input:active {
+  outline: none;
+}
+
+.todo-block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 25px;
+  height: 48px;
+  border-bottom: 1px solid #8080802b;
+}
+
+p {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  cursor: pointer;
+}

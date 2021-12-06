@@ -1,0 +1,8 @@
+.actions-wrapper {
+  border-bottom: 1px solid #8080802b;
+  height: 47px;
+}
+
+.MuiTab-root {
+  min-width: 20px !important;
+}
